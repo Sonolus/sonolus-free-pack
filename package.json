@@ -19,7 +19,7 @@
     "build": "sonolus-pack && sonolus-generate-static"
   },
   "devDependencies": {
-    "sonolus-generate-static": "~5.3.0",
-    "sonolus-pack": "~5.3.0"
+    "sonolus-generate-static": "5.4.0-alpha.0",
+    "sonolus-pack": "5.4.0-alpha.0"
   }
 }
