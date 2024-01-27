@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 2,
     "title": {
         "en": "Pixel"
     },
@@ -9,7 +9,8 @@
     "author": {
         "en": "Burrito"
     },
+    "tags": [],
     "description": {
-        "en": "Version:\n1.2.0"
+        "en": "Version:\n1.1.0"
     }
 }

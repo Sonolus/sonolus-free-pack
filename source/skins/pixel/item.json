@@ -1,7 +1,7 @@
 {
-    "version": 5,
+    "version": 4,
     "title": {
-        "en": "None"
+        "en": "Pixel"
     },
     "subtitle": {
         "en": "Sonolus"
@@ -9,7 +9,8 @@
     "author": {
         "en": "Burrito"
     },
+    "tags": [],
     "description": {
-        "en": "Version:\n1.0.1"
+        "en": "Version:\n1.2.0"
     }
 }
