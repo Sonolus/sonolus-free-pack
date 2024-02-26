@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "title": {
         "en": "Pixel"
     },
@@ -11,6 +11,6 @@
     },
     "tags": [],
     "description": {
-        "en": "Version:\n1.1.0"
+        "en": "Version:\n1.1.1"
     }
 }
