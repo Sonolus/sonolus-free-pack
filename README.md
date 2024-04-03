@@ -11,7 +11,7 @@ Copyright free asset pack for Sonolus.
 ## Installation
 
 ```
-npm install sonolus-free-pack
+npm install @sonolus/free-pack
 ```
 
 ## Content
