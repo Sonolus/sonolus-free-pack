@@ -1,6 +1,6 @@
 {
   "name": "@sonolus/free-pack",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Copyright free asset pack for Sonolus",
   "author": "NonSpicyBurrito",
   "repository": "github:Sonolus/sonolus-free-pack",
@@ -19,7 +19,7 @@
     "build": "sonolus-pack && sonolus-generate-static"
   },
   "devDependencies": {
-    "@sonolus/generate-static": "~5.4.1",
-    "@sonolus/pack": "~5.4.1"
+    "@sonolus/generate-static": "~5.4.2",
+    "@sonolus/pack": "~5.4.2"
   }
 }
