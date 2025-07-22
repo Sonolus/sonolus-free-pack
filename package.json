@@ -22,7 +22,7 @@
     "build": "sonolus-pack && sonolus-generate-static"
   },
   "devDependencies": {
-    "@sonolus/generate-static": "~5.4.9",
-    "@sonolus/pack": "~5.4.9"
+    "@sonolus/generate-static": "~5.5.0",
+    "@sonolus/pack": "~5.5.0"
   }
 }
