@@ -1,4 +1,4 @@
-const path = require('node:path')
+import { join } from 'node:path'
 
-module.exports.packPath = path.join(__dirname, 'pack')
-module.exports.staticPath = path.join(__dirname, 'static')
+export const packPath = join(import.meta.dirname, 'pack')
+export const staticPath = join(import.meta.dirname, 'static')
